@@ -15,6 +15,17 @@ I open sourced part of the code in _InkStructure_, you can read [more about it h
 
 ![screenshot_geometry](https://user-images.githubusercontent.com/7513343/127105259-9e4ec2a4-e069-4d1c-845d-5170bdb55504.png)
 
+Here's the screenshot of the current progress rendering the deformed structure:
+
+<img width="1422" alt="deformed" src="https://user-images.githubusercontent.com/7513343/132109194-3344afb5-0c5d-438d-91da-ee97fa2cc2f6.png">
+
+The bending moment diagrams:
+<img width="1418" alt="bending" src="https://user-images.githubusercontent.com/7513343/132109195-159ac539-14dc-4af3-b067-6e7ffdb7da16.png">
+
+And the axial stress diagrams:
+<img width="1397" alt="axial" src="https://user-images.githubusercontent.com/7513343/132109197-4644aafc-e0ef-4349-bd6e-8c21e128d59f.png">
+
+
 
 
 <!--
