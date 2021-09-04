@@ -10,8 +10,8 @@ The source code for the book is open source and you can find it in my [Mechanics
 
 ### 🔭 Currently Working
 
-I'm spending my time mainly working on [InkStructure](https://www.inkstructure.com/); a powerful and easy-to-use 2D Structural Analysis desktop application especially designed for the engineering and architecture modern student.
-I open sourced part of the code in _InkStructure_, you can read [more about it here](https://www.inkstructure.com/open-source).
+I'm spending my time mainly working on [InkStructure](https://www.inkstructure.com/) –a powerful and easy-to-use 2D Structural Analysis desktop application especially designed for the engineering and architecture modern student.
+I open sourced a large part of the code in _InkStructure_, you can read [more about it here](https://www.inkstructure.com/open-source).
 
 ![screenshot_geometry](https://user-images.githubusercontent.com/7513343/127105259-9e4ec2a4-e069-4d1c-845d-5170bdb55504.png)
 
