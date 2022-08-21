@@ -8,6 +8,9 @@ The source code for the book is open source and you can find it in my [Mechanics
 
 <img width="300" alt="Hardcore Programming For Mechanical Engineers" src="https://user-images.githubusercontent.com/7513343/127103654-947c5cac-3ac3-433f-97a4-0b2e620ffa7d.jpg">
 
+If you read it and you liked it, I'd love if you could write me a nice review in Amazon.
+Thanks!
+
 ### 🔭 Currently Working
 
 I'm spending my time mainly working on [InkStructure](https://www.inkstructure.com/) –a powerful and easy-to-use 2D Structural Analysis desktop application especially designed for the engineering and architecture modern student.
