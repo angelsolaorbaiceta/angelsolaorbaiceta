@@ -1,3 +1,19 @@
+### 📖 I'm Working On A New Book!
+
+I'm currently working on a book: _Build a frontend framework (from scratch)_.
+In this book, I teach you how to __build your own frontend framework__, line by line, so that you can learn how they work.
+
+📢 It's in [MEAP](https://www.manning.com/meap-program) (Manning Early Access Program), so if you purchase it now, you get a great price, plus you get the chance to be one of the early readers who can give feedback about the book, and have a say in the final result.
+Don't miss this opportunity!
+
+
+![Build a web frontend framework from scratch](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Orbaiceta.png)
+
+📘 [Buy your copy here!](http://mng.bz/aM2o)
+
+📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book)
+
+
 ### 📖 I Wrote A Book
 
 I wrote a book for engineering students (with a background in mechanics) to learn how to write Python programs to solve complex engineering problems.
