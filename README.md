@@ -14,8 +14,6 @@ Don't miss this opportunity!
 📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book)
 
 
-Ssssh, don't tell anyone, but you get a **45% discount** with the code: _mlorbaiceta_, valid until March 15th.
-
 
 ### 📖 I Wrote A Book
 
