@@ -7,7 +7,7 @@ In this book, I teach you how to __build your own frontend framework__, line by 
 Don't miss this opportunity!
 
 
-![Build a web frontend framework from scratch](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Orbaiceta.png)
+![Build a web frontend framework from scratc](https://images.manning.com/360/480/resize/book/0/dfa7a0d-8341-4cb5-86eb-958d2ed263f7/Orbaiceta-MEAP-HI.png)
 
 📘 [Buy your copy here!](http://mng.bz/aM2o)
 
