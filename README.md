@@ -11,7 +11,7 @@ In this book, I teach you how to __build your own frontend framework__, line by 
 
 
 
-### 📖 I Wrote A Book
+### 📖 Solve engineering problems using Python
 
 I wrote a book for engineering students (with a background in mechanics) to learn how to write Python programs to solve complex engineering problems.
 You can check out all the details in the [book's website](https://www.hardcoreprogramming.dev/).
