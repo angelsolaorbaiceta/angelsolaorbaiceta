@@ -1,13 +1,9 @@
-### 📖 I'm Working On A New Book!
+### 📖 Build your own frontend framework
 
-I'm currently working on a book: _Build a frontend framework (from scratch)_.
-In this book, I teach you how to __build your own frontend framework__, line by line, so that you can learn how they work.
+You can now purchase my new book: _Build a frontend framework (from scratch)_.
+In this book, I teach you how to __build your own frontend framework__, line by line, so that you can learn how they work internally.
 
-📢 It's in [MEAP](https://www.manning.com/meap-program) (Manning Early Access Program), so if you purchase it now, you get a great price, plus you get the chance to be one of the early readers who can give feedback about the book, and have a say in the final result.
-Don't miss this opportunity!
-
-
-![Build a web frontend framework from scratc](https://images.manning.com/360/480/resize/book/0/dfa7a0d-8341-4cb5-86eb-958d2ed263f7/Orbaiceta-MEAP-HI.png)
+<img src="https://github.com/angelsolaorbaiceta/angelsolaorbaiceta/assets/7513343/d79d6891-480f-4c84-a24a-92e6ab42b430" alt="Build a web frontend framework from scratch" width="400" />
 
 📘 [Buy your copy here!](http://mng.bz/aM2o)
 
@@ -23,7 +19,7 @@ You can already buy it from [No Starch Press](https://nostarch.com/hardcore-prog
 
 The source code for the book is open source and you can find it in my [Mechanics repository](https://github.com/angelsolaorbaiceta/Mechanics).
 
-<img width="300" alt="Hardcore Programming For Mechanical Engineers" src="https://user-images.githubusercontent.com/7513343/127103654-947c5cac-3ac3-433f-97a4-0b2e620ffa7d.jpg">
+<img width="400" alt="Hardcore Programming For Mechanical Engineers" src="https://user-images.githubusercontent.com/7513343/127103654-947c5cac-3ac3-433f-97a4-0b2e620ffa7d.jpg">
 
 If you read it and you liked it, I'd love if you could write me a nice review in Amazon.
 Thanks!
