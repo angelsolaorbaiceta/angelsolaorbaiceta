@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsolaorbaiceta&count_private=true&show_icons=true)
+
 ### 📖 Build your own frontend framework
 
 You can now purchase my new book: _Build a frontend framework (from scratch)_.
