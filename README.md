@@ -30,7 +30,7 @@ In this book, I teach you how to __build your own frontend framework__, line by 
 
 📘 Buy your copy from [Amazon](https://www.amazon.com/Build-Frontend-Web-Framework-Scratch/dp/1633438066) or [the publisher](http://mng.bz/aM2o).
 
-📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book).
+📦 Here's the [repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book).
 
 
 
@@ -44,7 +44,7 @@ You can check out all the details in the [book's website](https://www.hardcorepr
 
 📘 Buy your copy [from Amazon](https://www.amazon.com/Hardcore-Programming-Engineers-Angel-Sola/dp/1718500785) or [the publisher](https://nostarch.com/hardcore-programming-mechanical-engineers).
 
-📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/Mechanics).
+📦 Here's the [repository with the code](https://github.com/angelsolaorbaiceta/Mechanics).
 
 If you read any of them and like it, I'd love if you could write me a nice review in Amazon.
 It means a lot for a noob author like myself.
