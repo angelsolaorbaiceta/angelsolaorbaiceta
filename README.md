@@ -1,27 +1,46 @@
-### 📖 Build your own frontend framework
+# Product-Minded Engineer
 
-You can now purchase my new book: _Build a frontend framework (from scratch)_.
+I'm Angel, a product-minded and security-aware full-stack engineer with more than 10 years of experience writing software for the web (both frontend and backend) and the desktop.
+Currently learning low-level systems programming (mostly for Linux) and network protocols.
+
+I can work proficiently with the following programming languages:
+
+- Go
+- Kotlin
+- Python
+- Javascript & Typescript
+
+
+## 📖 Books
+
+I'm no writer, but I wrote two books you might be interested in.
+
+### Build a frontend framework (from scratch)
+
 In this book, I teach you how to __build your own frontend framework__, line by line, so that you can learn how they work internally.
 
 <img src="https://github.com/angelsolaorbaiceta/angelsolaorbaiceta/assets/7513343/d79d6891-480f-4c84-a24a-92e6ab42b430" alt="Build a web frontend framework from scratch" width="400" />
 
-📘 [Buy your copy here!](http://mng.bz/aM2o)
+📘 Buy your copy from [Amazon](https://www.amazon.com/Build-Frontend-Web-Framework-Scratch/dp/1633438066) or [the publisher](http://mng.bz/aM2o).
 
-📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book)
+📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/fe-fwk-book).
 
 
 
-### 📖 Solve engineering problems using Python
+### Hardcore programming for mechanical engineers
 
-I wrote a book for engineering students (with a background in mechanics) to learn how to write Python programs to solve complex engineering problems.
+A book for engineering students (with a background in mechanics) to learn how to write Python programs to solve complex engineering problems.
+You'll learn how to program a 2D geometry library, a vector graphics engine and how to create CLIs to put everything together.
 You can check out all the details in the [book's website](https://www.hardcoreprogramming.dev/).
-You can already buy it from [No Starch Press](https://nostarch.com/hardcore-programming-mechanical-engineers) and [Amazon](https://www.amazon.com/Hardcore-Programming-Engineers-Angel-Sola/dp/1718500785).
-
-The source code for the book is open source and you can find it in my [Mechanics repository](https://github.com/angelsolaorbaiceta/Mechanics).
 
 <img width="400" alt="Hardcore Programming For Mechanical Engineers" src="https://user-images.githubusercontent.com/7513343/127103654-947c5cac-3ac3-433f-97a4-0b2e620ffa7d.jpg">
 
-If you read it and you liked it, I'd love if you could write me a nice review in Amazon.
+📘 Buy your copy [from Amazon](https://www.amazon.com/Hardcore-Programming-Engineers-Angel-Sola/dp/1718500785) or [the publisher](https://nostarch.com/hardcore-programming-mechanical-engineers).
+
+📦 [Here's the repository with the code](https://github.com/angelsolaorbaiceta/Mechanics).
+
+If you read any of them and like it, I'd love if you could write me a nice review in Amazon.
+It means a lot for a noob author like myself.
 Thanks!
 
 <!--
