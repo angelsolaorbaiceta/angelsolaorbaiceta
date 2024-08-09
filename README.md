@@ -13,13 +13,6 @@ I played around a bit with Cocoa Touch for iOS, and some Android as well, but ha
 
 ⚡ Fun fact: In my free time I love cooking food from all over the world. I have my own hot chili trees planted at home.
 
-🔭 I can work proficiently with the following programming languages:
-
-- Go
-- Kotlin
-- Python
-- Javascript & Typescript
-
 
 ## 📖 Books
 
