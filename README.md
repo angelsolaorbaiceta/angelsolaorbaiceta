@@ -4,6 +4,9 @@ I'm Angel, a product-minded and security-aware full-stack engineer with more tha
 I've developed desktop applications for MacOS (native; Swift) and Windows (Winforms and WPF), CLIs using Go, Python and JS, as well as frontends (vanilla JS, Vue, Angular, React, and my own framework—see books below) and backends (Java, Kotlin, JS and Go).
 I played around a bit with Cocoa Touch for iOS, and some Android as well, but haven't done anything meaningful for mobile.
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsolaorbaiceta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsolaorbaiceta&layout=donut&theme=tokyonight)
+
 🖥️ The passion to solve real people's problems using technology drives me.
 
 🌱 Currently learning low-level systems programming (mostly for Linux) and network protocols.
