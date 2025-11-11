@@ -1,12 +1,12 @@
 # Product-Minded Engineer
 
 I'm Angel, a product-minded and security-aware full-stack engineer with more than 10 years of experience writing software for the web (both frontend and backend) and the desktop.
-I've developed desktop applications for MacOS (native; Swift) and Windows (Winforms and WPF), CLIs using Go, Python and JS, as well as frontends (vanilla JS, Vue, Angular, React, and my own framework—see books below) and backends (Java, Kotlin, JS and Go).
+I've developed desktop applications for MacOS (native; Swift) and Windows (Winforms and WPF), CLIs using Go, Python and JS, as well as frontends (vanilla JS, Vue, Angular, React, and my own framework—see books below) and backends (Python, Java, Kotlin, JS and Go).
 
 
 ## 📖 Books
 
-I'm no writer, but I wrote two books you might be interested in.
+I wrote two books you might be interested in.
 
 ### Build a frontend framework (from scratch)
 
